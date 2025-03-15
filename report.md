@@ -4,10 +4,10 @@
 
 | Name | Specific Contribution in this Report |
 |------|--------------------------------------|
-| Apostolos Ntaflos |  |Literature Review, Discussion, Citations
-| Micahel Schröder |  |Findings, Methodology, case study
-| Elbijon Krasniqi |  |Data Collection,Data Analysis Methods
-| Tim Hammers |  |Public Perception case study
+| Apostolos Ntaflos |  |Literature Review, Discussion, Citations|
+| Micahel Schröder |  |Findings, Methodology, case study|
+| Elbijon Krasniqi |  |Data Collection,Data Analysis Methods|
+| Tim Hammers |  |Public Perception case study|
 | Savas Erulgen | Case Study Findings |
 ---
 
